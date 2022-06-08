@@ -233,14 +233,10 @@
 }
 
 .u-section-2 .u-image-1.u-image-1.u-image-1:hover {
-  box-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
-  text-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
   transform: translateX(0px) translateY(-5px) scale(1) !important;
 }
 
 .u-section-2 .u-image-1.u-image-1.u-image-1.hover {
-  box-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
-  text-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
   transform: translateX(0px) translateY(-5px) scale(1) !important;
 }.u-section-3 .u-sheet-1 {
   min-height: 580px;
